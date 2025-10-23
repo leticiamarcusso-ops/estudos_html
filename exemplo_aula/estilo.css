@@ -1,0 +1,21 @@
+h1{
+    background-color: aqua;
+}
+
+h2{
+    background-color: darkgoldenrod;
+}
+
+body{
+    background-image: url(https://sp.senai.br/images/senai.svg);
+    /* para colocar uma imagem no fundo */
+   /* background-repeat: repeat-y; */
+   background-repeat: no-repeat;
+   background-position: right top;
+   background-attachment: fixed ;
+   
+}
+   
+   /* repete a imagem em um determinado local x orizontaç y vertical ou nao repetir
+   attachment para deixar algo fixo
+   position para posiciona a imagem
