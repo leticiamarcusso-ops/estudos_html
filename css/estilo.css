@@ -14,7 +14,7 @@ img{
     width: 300px;
     height: 200px;
 }
-
+   /* para colocar cor em alguma frase expecifica, todos que estao com # sao id */
 #css{
     font-size: 36px;
     color:salmon;
